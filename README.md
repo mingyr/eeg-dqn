@@ -7,7 +7,7 @@ Because GitHub constrains the maximum of uploading data file, the data files the
 
 Currently only data of one subject are posted there, more in the following.
 
-Prerequisite of the code are as follows:
+Prerequisites of the code are as follows:
 <ul>
 <li>TensorFlow == 1.3 or 1.4, https://www.tensorflow.org/ </li>
 <li>TRFL, https://github.com/deepmind/trfl </li>
