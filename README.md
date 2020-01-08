@@ -7,7 +7,12 @@ Because GitHub constrains the maximum of uploading data file, the data files the
 
 Currently only data of one subject are posted there, more in the following.
 
-Prerequisite of the code is TensorFlow >= 1.3, TRFL, and another repo of the author named dnn-lib.
+Prerequisite of the code are as follows:
+<ul>
+<li>TensorFlow == 1.3 or 1.4, https://www.tensorflow.org/ </li>
+<li>TRFL, https://github.com/deepmind/trfl </li>
+<li>dnn-lib, https://github.com/mingyr/dnn-lib </li>
+</ul>
 
 The eeg-double-dqn corresponds to the single-subject case, while eeg-dueling-dqn corresponds to the cross-subject case.
 
